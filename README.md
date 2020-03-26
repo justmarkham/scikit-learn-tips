@@ -1,12 +1,12 @@
 # 🤖⚡ Daily scikit-learn tips
 
-New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Twitter](https://twitter.com/justmarkham), and [Facebook](https://www.facebook.com/DataScienceSchool/) every weekday.
+New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Twitter](https://twitter.com/justmarkham), and [Facebook](https://www.facebook.com/DataScienceSchool/) every weekday!
 
-[Sign up](https://dataschool.ck.page/sklearntips) to receive 5 scikit-learn tips by email every week 💌
+👉 [Sign up to receive 5 tips by email every week](https://dataschool.ck.page/sklearntips) 👈
 
 ## List of all tips
 
-Click <img src="icons/nb.svg" width="20px" align="top"> to view the Jupyter notebook for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on LinkedIn:
+Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn:**
 
 1. Use ColumnTransformer to apply different preprocessing to different columns <a href="notebooks/01_columntransformer.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645311881470885889-F-dm/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 2. Seven ways to select columns using ColumnTransformer
