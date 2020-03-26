@@ -1,12 +1,14 @@
-# scikit-learn tips
+# 🤖⚡ Daily scikit-learn tips
 
 New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Twitter](https://twitter.com/justmarkham), and [Facebook](https://www.facebook.com/DataScienceSchool/) every weekday.
 
-[Sign up](https://dataschool.ck.page/sklearntips) to receive 5 scikit-learn tips in your email every week!
+[Sign up](https://dataschool.ck.page/sklearntips) to receive 5 scikit-learn tips in your email every week 💌
+
+## List of tips
 
 Click <img src="icons/nb.svg" width="20px" align="top"> to view the Jupyter notebook for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on LinkedIn. (Some of the tips do not include any code, and can only be viewed on LinkedIn.)
 
-1. Use ColumnTransformer to apply different preprocessing to different columns <a href="notebooks/01_columntransformer.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645311881470885889-F-dm/" target="_blank"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
+1. Use ColumnTransformer to apply different preprocessing to different columns <a href="notebooks/01_columntransformer.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645311881470885889-F-dm/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 2. Seven ways to select columns using ColumnTransformer
 3. What is the difference between "fit" and "transform"?
 4. Use "fit_transform" on training data, but "transform" (only) on testing/new data
@@ -35,3 +37,5 @@ The course is not free, but you can preview a small portion of the course by wat
 ## Do you have any other tips?
 
 Yes! In 2019, I posted [100 pandas tricks](https://www.dataschool.io/python-pandas-tips-and-tricks/). I also created a video featuring my [top 25 pandas tricks](https://www.dataschool.io/python-pandas-tricks/).
+
+*© 2020 [Data School](https://www.dataschool.io). All rights reserved.*
