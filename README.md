@@ -2,11 +2,11 @@
 
 New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Twitter](https://twitter.com/justmarkham), and [Facebook](https://www.facebook.com/DataScienceSchool/) every weekday.
 
-[Sign up](https://dataschool.ck.page/sklearntips) to receive 5 scikit-learn tips in your email every week 💌
+[Sign up](https://dataschool.ck.page/sklearntips) to receive 5 scikit-learn tips by email every week 💌
 
-## List of tips
+## List of all tips
 
-Click <img src="icons/nb.svg" width="20px" align="top"> to view the Jupyter notebook for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on LinkedIn. (Some of the tips do not include any code, and can only be viewed on LinkedIn.)
+Click <img src="icons/nb.svg" width="20px" align="top"> to view the Jupyter notebook for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on LinkedIn:
 
 1. Use ColumnTransformer to apply different preprocessing to different columns <a href="notebooks/01_columntransformer.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645311881470885889-F-dm/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 2. Seven ways to select columns using ColumnTransformer
@@ -17,6 +17,8 @@ Click <img src="icons/nb.svg" width="20px" align="top"> to view the Jupyter note
 7. Handle unknown categories with OneHotEncoder by encoding them as zeros
 8. Use Pipeline to chain together multiple steps
 9. Add a missing indicator to encode "missingness" as a feature
+
+ **Note:** Some of the tips do not include any code, and can only be viewed on LinkedIn.
 
 ## Who creates these tips?
 
