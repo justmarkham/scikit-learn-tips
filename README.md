@@ -9,10 +9,10 @@ New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Tw
 Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn:**
 
 1. Use ColumnTransformer to apply different preprocessing to different columns <a href="notebooks/01_columntransformer.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645311881470885889-F-dm/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
-2. Seven ways to select columns using ColumnTransformer
-3. What is the difference between "fit" and "transform"?
-4. Use "fit_transform" on training data, but "transform" (only) on testing/new data
-5. Four reasons to use scikit-learn (not pandas) for ML preprocessing
+2. Seven ways to select columns using ColumnTransformer <a href="notebooks/02_select_columns.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645666737507352576-J3fh/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
+3. What is the difference between "fit" and "transform"? <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6646039996639825920-DwUd/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
+4. Use "fit_transform" on training data, but "transform" (only) on testing/new data <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6646386464672272385-hGk2/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
+5. Four reasons to use scikit-learn (not pandas) for ML preprocessing <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6646739773820059648-CfMc/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 6. Encode categorical features using OneHotEncoder or OrdinalEncoder
 7. Handle unknown categories with OneHotEncoder by encoding them as zeros
 8. Use Pipeline to chain together multiple steps
