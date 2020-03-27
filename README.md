@@ -13,10 +13,11 @@ Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter no
 3. What is the difference between "fit" and "transform"? <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6646039996639825920-DwUd/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 4. Use "fit_transform" on training data, but "transform" (only) on testing/new data <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6646386464672272385-hGk2/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 5. Four reasons to use scikit-learn (not pandas) for ML preprocessing <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6646739773820059648-CfMc/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
-6. Encode categorical features using OneHotEncoder or OrdinalEncoder
-7. Handle unknown categories with OneHotEncoder by encoding them as zeros
-8. Use Pipeline to chain together multiple steps
-9. Add a missing indicator to encode "missingness" as a feature
+6. Encode categorical features using OneHotEncoder or OrdinalEncoder <a href="notebooks/06_encode_categorical_features.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6647897085251239936-w587/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
+7. Handle unknown categories with OneHotEncoder by encoding them as zeros <a href="notebooks/07_handle_unknown_categories.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6648203250950553600-IpGr/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
+8. Use Pipeline to chain together multiple steps <a href="notebooks/08_pipeline.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6648570918979325952-vrWw/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
+9. Add a missing indicator to encode "missingness" as a feature <a href="notebooks/09_add_missing_indicator.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6648932419095322624-hH5F/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
+10. Set a "random_state" to make your code reproducible <a href="notebooks/10_random_state.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6649289189365989376-8QbM/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 
  **Note:** Some of the tips do not include any code, and can only be viewed on LinkedIn.
 
