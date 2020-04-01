@@ -2,7 +2,7 @@
 
 New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Twitter](https://twitter.com/justmarkham), and [Facebook](https://www.facebook.com/DataScienceSchool/) every weekday!
 
-👉 [Sign up to receive 5 tips by email every week](https://dataschool.ck.page/sklearntips) 👈
+👉 [Sign up to receive 5 tips by email every week](https://scikit-learn.tips) 👈
 
 ## List of all tips
 
