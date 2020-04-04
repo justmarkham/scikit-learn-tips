@@ -1,6 +1,6 @@
 name: scikit-learn-tips
 channels:
-  - defaults
+  - conda-forge
 dependencies:
-  - pandas
-  - scikit-learn
+  - pandas=1.0.*
+  - scikit-learn=0.22.*
