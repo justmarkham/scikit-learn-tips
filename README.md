@@ -6,7 +6,9 @@ New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Tw
 
 ## List of all tips
 
-Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn:**
+Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn.**
+
+Or, you can interact with these notebooks online using **Binder:** <a href="https://mybinder.org/v2/gh/justmarkham/scikit-learn-tips/master?filepath=notebooks%2F"><img src="icons/binder.svg" align="top"></a>
 
 \# | Description | Links
 --- | --- | ---
