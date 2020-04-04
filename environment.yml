@@ -1,0 +1,6 @@
+name: scikit-learn-tips
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - scikit-learn
