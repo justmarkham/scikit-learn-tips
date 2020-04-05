@@ -6,9 +6,7 @@ New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Tw
 
 ## List of all tips
 
-Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn.**
-
-Or, you can interact with these notebooks online using **Binder:** <a href="https://mybinder.org/v2/gh/justmarkham/scikit-learn-tips/master?filepath=notebooks%2F"><img src="icons/binder.svg" align="top"></a>
+Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn:**
 
 \# | Description | Links
 --- | --- | ---
@@ -28,7 +26,9 @@ Or, you can interact with these notebooks online using **Binder:** <a href="http
 14 | `HistGradientBoostingClassifier` natively supports missing values | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6651478075181711360-oyoW/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/14_handle_missing_values.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
 15 | Three reasons not to use drop='first' with `OneHotEncoder` | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6651812212270788609-lhE1/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 
- **Note:** Some of the tips do not include any code, and can only be viewed on LinkedIn.
+You can interact with all of these notebooks online using **Binder:** <a href="https://mybinder.org/v2/gh/justmarkham/scikit-learn-tips/master?filepath=notebooks%2F"><img src="icons/binder.svg" align="top"></a>
+
+**Note:** Some of the tips do not include any code, and can only be viewed on LinkedIn.
 
 ## Who creates these tips?
 
