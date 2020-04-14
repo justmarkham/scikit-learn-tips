@@ -31,6 +31,7 @@ Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter no
 19 | Important tuning parameters for `LogisticRegression` | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6654000730321534976-Um6C/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 20 | Plot a confusion matrix | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6654398086783213568-fb8p/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/20_plot_confusion_matrix.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
 21 | Compare multiple ROC curves in a single plot | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6655489426082316288-yVzb/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/21_plot_roc_curve.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+22 | Use the correct methods for each type of `Pipeline` | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6655822391479980033-KUqD/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 
 You can interact with all of these notebooks online using **Binder:** <a href="https://mybinder.org/v2/gh/justmarkham/scikit-learn-tips/master?filepath=notebooks%2F"><img src="icons/binder.svg" align="top"></a>
 
