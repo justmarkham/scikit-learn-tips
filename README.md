@@ -4,6 +4,8 @@ New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Tw
 
 👉 [Sign up to receive 5 tips by email every week](https://scikit-learn.tips) 👈
 
+**P.S.** I'm teaching a **Machine Learning course** starting April 22. [Learn more and enroll today!](https://gumroad.com/l/ML-course?variant=Live%20Course%20%2B%20Advanced%20Course%20%3D%20%24129) 🎓
+
 ## List of all tips
 
 Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn:**
