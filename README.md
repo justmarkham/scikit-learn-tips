@@ -63,17 +63,15 @@ You can interact with all of these notebooks online using **Binder:** <a href="h
 
 Hi! I'm Kevin Markham, the founder of [Data School](https://www.dataschool.io). I've been teaching data science in Python since 2014. I create these tips because I love using scikit-learn and I want to help others use it more effectively.
 
-## How can I learn scikit-learn from scratch?
-
-Watch my free video series, [Introduction to Machine Learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A). There are 10 videos totaling 4.5 hours, and each video has a corresponding Jupyter notebook. Here's the [detailed list of topics](https://github.com/justmarkham/scikit-learn-videos#table-of-contents) that I cover in the series.
-
-Due to changes in the scikit-learn API, a small percentage of the code shown in the videos is out-of-date. However, the code in the [Jupyter notebooks](https://github.com/justmarkham/scikit-learn-videos) is all up-to-date.
-
 ## How can I get better at scikit-learn?
 
-Take my online course, [Machine Learning with Text in Python](https://www.dataschool.io/learn/). It includes 14 hours of video lessons, detailed lesson notebooks, homework assignments with included solutions, access to a Slack team, and more. Here's the [detailed list of topics](https://www.dataschool.io/learn/#courseoutline) that I cover in the course.
+I teach three courses:
 
-The course is not free, but you can preview a small portion of the course by watching my [PyCon 2016 tutorial](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10).
+- **Course 1:** [Introduction to Machine Learning in Python with scikit-learn](https://www.dataschool.io/machine-learning-with-scikit-learn/) (4 hours, free)
+- **Course 2:** [Building an Effective Machine Learning Workflow with scikit-learn](https://gumroad.com/l/ML-course?variant=Live%20Course%20%2B%20Advanced%20Course) (8 hours, paid)
+- **Course 3:** [Machine Learning with Text in Python](https://www.dataschool.io/learn/) (14 hours, paid)
+
+[Click here to find out which course is right for you!](https://www.dataschool.io/ml-courses/)
 
 ## Do you have any other tips?
 
