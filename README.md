@@ -71,7 +71,7 @@ I teach three courses:
 - **Course 2:** [Building an Effective Machine Learning Workflow with scikit-learn](https://gumroad.com/l/ML-course?variant=Live%20Course%20%2B%20Advanced%20Course) (8 hours, paid)
 - **Course 3:** [Machine Learning with Text in Python](https://www.dataschool.io/learn/) (14 hours, paid)
 
-[Click here to find out which course is right for you!](https://www.dataschool.io/ml-courses/)
+👉 [Find out which course is right for you!](https://www.dataschool.io/ml-courses/) 👈
 
 ## Do you have any other tips?
 
