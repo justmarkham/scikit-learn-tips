@@ -1,8 +1,8 @@
 # 🤖⚡ scikit-learn tips
 
-New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Twitter](https://twitter.com/justmarkham), and [Facebook](https://www.facebook.com/DataScienceSchool/)!
+New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Twitter](https://twitter.com/justmarkham), and [Facebook](https://www.facebook.com/DataScienceSchool/).
 
-👉 [Sign up to receive 2 tips by email every week!](https://scikit-learn.tips) 👈
+👉 [Sign up to receive 2 video tips by email every week!](https://scikit-learn.tips) 👈
 
 ## List of all tips
 
@@ -10,7 +10,7 @@ Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter no
 
 \# | Description | Links
 --- | --- | ---
-1 | Use `ColumnTransformer` to apply different preprocessing to different columns | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645311881470885889-F-dm/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="https://nbviewer.jupyter.org/github/justmarkham/scikit-learn-tips/blob/master/notebooks/01_column_transformer.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+1 | Use `ColumnTransformer` to apply different preprocessing to different columns | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645311881470885889-F-dm/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="https://nbviewer.jupyter.org/github/justmarkham/scikit-learn-tips/blob/master/notebooks/01_column_transformer.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> <a href="https://www.youtube.com/watch?v=NGq8wnH5VSo&list=PL5-da3qGB5ID7YYAqireYEew2mWVvgmj6&index=1"><img src="icons/yt.svg" width="20px" align="top" title="Watch video"></a>
 2 | Seven ways to select columns using `ColumnTransformer` | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6645666737507352576-J3fh/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="https://nbviewer.jupyter.org/github/justmarkham/scikit-learn-tips/blob/master/notebooks/02_select_columns.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
 3 | What is the difference between "fit" and "transform"? | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6646039996639825920-DwUd/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 4 | Use "fit_transform" on training data, but "transform" (only) on testing/new data | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6646386464672272385-hGk2/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
