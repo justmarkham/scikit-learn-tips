@@ -6,7 +6,7 @@ New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Tw
 
 ## List of all tips
 
-Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn:**
+Click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn**, click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/yt.svg" width="20px" align="top"> to watch the tip video on **YouTube:**
 
 \# | Description | Links
 --- | --- | ---
