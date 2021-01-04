@@ -81,6 +81,12 @@ I teach three courses:
 
 ## Do you have any other tips?
 
+XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
+
+- **UsefulTip :** [XGBoost offical doc ](https://xgboost.readthedocs.io/en/latest/)
+
+
+
 Yes! In 2019, I posted [100 pandas tricks](https://www.dataschool.io/python-pandas-tips-and-tricks/). I also created a video featuring my [top 25 pandas tricks](https://www.dataschool.io/python-pandas-tricks/).
 
 *© 2020 [Data School](https://www.dataschool.io). All rights reserved.*
