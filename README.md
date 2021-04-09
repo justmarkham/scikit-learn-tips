@@ -73,8 +73,8 @@ Hi! I'm Kevin Markham, the founder of [Data School](https://www.dataschool.io). 
 
 I teach three courses:
 
-- **Course 1:** [Introduction to Machine Learning in Python with scikit-learn](https://www.dataschool.io/machine-learning-with-scikit-learn/) (4 hours, free)
-- **Course 2:** [Building an Effective Machine Learning Workflow with scikit-learn](https://gumroad.com/l/ML-course?variant=Live%20Course%20%2B%20Advanced%20Course) (8 hours, paid)
+- **Course 1:** [Introduction to Machine Learning in Python with scikit-learn](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn) (4 hours, free)
+- **Course 2:** [Building an Effective Machine Learning Workflow with scikit-learn](https://courses.dataschool.io/building-an-effective-machine-learning-workflow-with-scikit-learn) (8 hours, paid)
 - **Course 3:** [Machine Learning with Text in Python](https://www.dataschool.io/learn/) (14 hours, paid)
 
 👉 [Find out which course is right for you!](https://www.dataschool.io/ml-courses/) 👈
